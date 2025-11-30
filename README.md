@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Cotarya
-- 👀 I’m interested in Windows Phones,C++
+- 👀 I’m interested in coding and playing mc
 - 🌱 I’m currently learning python,c#
 - 📫 How to reach me meowy@meowerity.com
 - 😄 Pronouns: he\him
-- ⚡ Fun fact: I like cats :3
+- 🐱 Cat fact: I like cats :3
 
 <!---
 Cotarya/Cotarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
